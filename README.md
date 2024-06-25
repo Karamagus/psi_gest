@@ -1,7 +1,7 @@
 # psi_gest
 App de gestão de consultório de psicologia. Adaptação de sistema original feito com Notion e n8n.
 
-O objetivo principal desse projeto é estudo e treinamento. Sem nenhum intenção de ser utilizdado em qualuqer outro lugar
+O objetivo principal desse projeto é estudo e treinamento sem intenção alguma de ser utilizdado em qualuqer outro lugar
 
 Será utilizdo o padrão MVC (Model-View-Component).
 
